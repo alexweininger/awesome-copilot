@@ -877,7 +877,7 @@
     {
       "name": "containers",
       "description": "Browse and operate local Docker containers and images in a Copilot canvas. Follow logs, watch resource usage, browse files, inspect image layers, and recover Dockerfile provenance.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "Microsoft",
         "url": "https://github.com/microsoft/azure-dev-tools"
@@ -899,8 +899,8 @@
         "source": "github",
         "repo": "microsoft/azure-dev-tools",
         "path": "canvases/containers",
-        "ref": "containers-v0-1-1-8ed51ad",
-        "sha": "a58ca3cacced9dbb116687377b404149898cdaa8"
+        "ref": "efa798baf07f560238bbc31dd91b4c64fe2d158f",
+        "sha": "efa798baf07f560238bbc31dd91b4c64fe2d158f"
       }
     },
     {
